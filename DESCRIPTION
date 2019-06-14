@@ -1,0 +1,13 @@
+Package: netAlignR
+Type: Package
+Title: Sparse network alignment
+Version: 1.0
+Date: 2019-01-01
+Author: Shahin Mohammadi
+Maintainer: Shahin Mohammadi <mohammadi@broadinstitute.org>
+Description: 
+License: GPL (>= 2)
+biocViews:
+Imports: Rcpp (>= 0.12.1)
+LinkingTo: Rcpp,RcppArmadillo
+Encoding: UTF-8
